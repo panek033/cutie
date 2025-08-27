@@ -38,7 +38,7 @@
     "camera_rotation": "0x188",
     "add_aim": "0x2C78",
     "mem_aim": "0x520",
-    "projectile_speed": "0x2130",
-    "projectile_gravity": "0x212c",
+    "projectile_speed": "0x1FDC",
+    "projectile_gravity": "0x1FE0",
     "root_comp": "0x1b0"
 }
