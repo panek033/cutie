@@ -1,15 +1,15 @@
-[Fortnite v1.1.1]
-  [+] Added Ignore Bots Option To Menu, previously      was always ON
-  [+] Added New Memory Aim Method, named      "Memory #1"
-[Loader v1.2.4]
+[Fortnite v1.1.1 - 29.08.2025]
+  [+] Added Ignore Bots Option To Menu
+  [+] Added New Memory Aim Method
+[Loader v1.2.4 - 27.08.2025]
   [+] Loader got re-designed
   [+] Added changelog
-[Fortnite v1.1.0]
+[Fortnite v1.1.0 - 27.08.2025]
   [+] Menu re-designed
   [+] Optimised some poor performing features
-[Fortnite v1.0.1]
+[Fortnite v1.0.1 - 27.08.2025]
   [+] Fixed "Core Isolation" popup showing even tho disabled
-[Loader v1.1.0]
+[Loader v1.1.0 - 24.08.2025]
   [+] GUI Loader added
-[Global v1.0.0]
+[Global v1.0.0 - 6.08.2025]
   [+] Cheat released
