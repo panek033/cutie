@@ -1,6 +1,6 @@
 [Fortnite v1.1.1]
-  [+] Added Ignore Bots Option To Menu, previously was always ON
-  [+] Added New Memory Aim Method, named "Memory #1"
+  [+] Added Ignore Bots Option To Menu, previously      was always ON
+  [+] Added New Memory Aim Method, named      "Memory #1"
 [Loader v1.2.4]
   [+] Loader got re-designed
   [+] Added changelog
