@@ -3,7 +3,7 @@
     "category": "Fortnite External v1.2.0",
     "date": "06.09.2025",
     "news": "Added weapon configs, menu got re-designed & optimised reading loop part",
-    "color": [115, 115, 255, 255] 
+    "color": [204, 191, 247, 255] 
     },
     {
     "category": "Loader Update v1.3.0",
@@ -15,25 +15,25 @@
     "category": "Fortnite External v1.1.3",
     "date": "01.09.2025",
     "news": "Added Shoot Through Wall, New Speed Hack Method & Hitchance Option To Silent Aim",
-    "color": [115, 115, 255, 255] 
+    "color": [204, 191, 247, 255] 
     },
     {
-    "category": "Loader Small Patch",
+    "category": "Loader Small Hot-Fix",
     "date": "31.08.2025",
     "news": "Fixed few bugs",
-    "color": [245, 115, 240, 255] 
+      "color": [209, 240, 206, 255] 
     },
     {
     "category": "Fortnite External v1.1.2",
     "date": "30.08.2025",
     "news": "Added Two Exploits (No Shot Delay After Weapon Equip & Vehicle Fun Option)",
-    "color": [115, 115, 255, 255] 
+    "color": [204, 191, 247, 255] 
     },
     {
     "category": "Fortnite External v1.1.1",
     "date": "29.08.2025",
     "news": "Added New Memory Aim Method & Ignore Bots Option To Visuals Tab",
-    "color": [115, 115, 255, 255] 
+    "color": [204, 191, 247, 255] 
     },
     {
     "category": "Loader Update v1.2.1",
@@ -51,13 +51,13 @@
     "category": "Fortnite External v1.1.0",
     "date": "27.08.2025",
     "news": "Menu re-designed",
-    "color": [115, 115, 255, 255] 
+    "color": [204, 191, 247, 255] 
     },
     {
-    "category": "Fortnite External Small Patch",
+    "category": "Fortnite External Hot-Fix",
     "date": "27.08.2025",
     "news": "Fixed 'Core Isolation/vt-d' error showing even tho disabled",
-    "color": [245, 115, 240, 255] 
+    "color": [209, 240, 206, 255] 
   },
   {
     "category": "Loader Update v1.1.0",
@@ -69,6 +69,6 @@
     "category": "Global Update",
     "date": "6.08.2025",
     "news": "Release of cutie",
-    "color": [245, 115, 240, 255] 
+    "color": [209, 240, 206, 255] 
   }
 ]
