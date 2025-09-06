@@ -1,0 +1,67 @@
+[
+    {
+    "category": "Fortnite External v1.2.0",
+    "date": "06.09.2025",
+    "news": "Added weapon configs, menu got re-designed & optimised reading loop part"
+    },
+    {
+    "category": "Loader Update v1.3.0",
+    "date": "06.09.2025",
+    "news": "Loader got re-coded and re-designed (bugs may occur)"
+    },
+    {
+    "category": "Fortnite External v1.1.3",
+    "date": "01.09.2025",
+    "news": "Added Shoot Through Wall, New Speed Hack Method & Hitchance Option To Silent Aim"
+    },
+    {
+    "category": "Loader Small Patch",
+    "date": "31.08.2025",
+    "news": "Fixed few bugs"
+    },
+    {
+    "category": "Fortnite External v1.1.2",
+    "date": "30.08.2025",
+    "news": "Added Two Exploits (No Shot Delay After Weapon Equip & Vehicle Fun Option)"
+    },
+    {
+    "category": "Fortnite External v1.1.1",
+    "date": "29.08.2025",
+    "news": "Added New Memory Aim Method & Ignore Bots Option To Visuals Tab"
+    },
+    {
+    "category": "Loader Update v1.2.1",
+    "date": "28.08.2025",
+    "news": "Added changelog"
+    },
+    {
+    "category": "Loader Update v1.2.1",
+    "date": "27.08.2025",
+    "news": "Added changelog"
+    },
+    {
+    "category": "Loader Update v1.2.0",
+    "date": "27.08.2025",
+    "news": "Loader got re-designed"
+    },
+    {
+    "category": "Fortnite External v1.1.0",
+    "date": "27.08.2025",
+    "news": "Menu re-designed"
+    },
+    {
+    "category": "Fortnite External Small Patch",
+    "date": "27.08.2025",
+    "news": "Fixed 'Core Isolation/vt-d' error showing even tho disabled"
+  },
+  {
+    "category": "Loader Update v1.1.0",
+    "date": "24.08.2025",
+    "news": "Changed from console loader to gui"
+  },
+  {
+    "category": "Global Update",
+    "date": "6.08.2025",
+    "news": "Release of cutie"
+  }
+]
