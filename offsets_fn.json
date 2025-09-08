@@ -2,7 +2,7 @@
     "b_is_dbno_bit": "7",
     "b_is_dying_bit": "5",
     "b_is_a_bot_bit": "2",
-    "Uworld": "0x176774E8",
+    "Uworld": "0x177255E8",
     "game_instance": "0x248",
     "game_state": "0x1D0",
     "item_levels": "0x1E0",
@@ -24,7 +24,7 @@
     "acknowledged_pawn": "0x350",
     "AFortController": "0x2B0",
     "current_weapon": "0x990",
-    "weapon_data": "0x5A0",
+    "weapon_data": "0x570",
     "skeletal_mesh": "0x328",
     "bone_array": "0x5E8",
     "component_to_world": "0x1E0",
@@ -39,7 +39,7 @@
     "add_aim": "0x2C78",
     "mem_aim": "0x520",
     "mem_aim2": "0x2C90",
-    "projectile_speed": "0x1FDC",
-    "projectile_gravity": "0x1FE0",
+    "projectile_speed": "0x20e0",
+    "projectile_gravity": "0x21c0",
     "root_comp": "0x1b0"
 }
