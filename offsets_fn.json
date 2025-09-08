@@ -28,7 +28,7 @@
     "skeletal_mesh": "0x328",
     "bone_array": "0x5E8",
     "component_to_world": "0x1E0",
-    "get_bounds": "0xF8",
+    "get_bounds": "0x108",
     "is_cached": "0x5F8",
     "seconds": "0x198",
     "last_render_time": "0x32C",
