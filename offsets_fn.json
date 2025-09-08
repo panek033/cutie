@@ -42,7 +42,7 @@
     "projectile_speed": "0x20e0",
     "projectile_gravity": "0x21c0",
     "root_comp": "0x1b0",
-    "TargetSourceOffset": "0x1048",
-    "TargetSourceOffsetWhileCrouched": "0x1060",
-    "TargetSourceOffsetWhileTargeting": "0x1078"
+    "chuj1": "0x1048",
+    "chuj2": "0x1060",
+    "chuj3": "0x1078"
 }
