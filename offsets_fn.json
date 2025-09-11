@@ -36,7 +36,7 @@
     "relative_location": "0x138",
     "camera_location": "0x178",
     "camera_rotation": "0x188",
-    "add_aim": "0x2C96",
+    "add_aim": "0x2C90",
     "mem_aim": "0x520",
     "mem_aim2": "0x2CA8",
     "projectile_speed": "0x2468",
