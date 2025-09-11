@@ -1,5 +1,11 @@
 [
     {
+    "category": "Fortnite External v1.2.1",
+    "date": "12.09.2025",
+    "news": "Removed useless exploits, added more customization to crosshair, custom menu key",
+    "color": [204, 191, 247, 255] 
+    },
+    {
     "category": "Fortnite External v1.2.0",
     "date": "06.09.2025",
     "news": "Added weapon configs, menu got re-designed & optimised reading loop part",
