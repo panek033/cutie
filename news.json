@@ -1,5 +1,17 @@
 [
     {
+    "category": "Fortnite External v1.2.2",
+    "date": "15.09.2025",
+    "news": "Fixed some important stuff, improved security",
+    "color": [204, 191, 247, 255] 
+    },
+    {
+    "category": "Valorant Aimbot & Triggerbot v1.0.0",
+    "date": "14.09.2025",
+    "news": "Now available for purchase!",
+    "color": [123, 136, 245, 255] 
+    },
+    {
     "category": "Fortnite External v1.2.1",
     "date": "12.09.2025",
     "news": "Removed useless exploits, added more customization to crosshair, custom menu key",
