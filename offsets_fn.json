@@ -43,7 +43,7 @@
     "projectile_speed": "0x2018",
     "projectile_gravity": "0x2268",
     "root_comp": "0x1b0",
-    "chuj1": "0x1408",
-    "chuj2": "0x1420",
-    "chuj3": "0x1438"
+    "chuj1": "0x1028",
+    "chuj2": "0x1040",
+    "chuj3": "0x1058"
 }
