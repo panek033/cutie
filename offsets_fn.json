@@ -36,7 +36,7 @@
     "relative_location": "0x140",
     "camera_location": "0x180",
     "camera_rotation": "0x190",
-    "add_aim": "0x2CA8",
+    "add_aim": "0x2d30",
     "AdditionalAimOffset": "0x2D30",
     "mem_aim": "0x520",
     "mem_aim2": "0x2D48",
