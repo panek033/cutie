@@ -32,7 +32,7 @@
     "get_bounds": "0x108",
     "is_cached": "0x5F8",
     "seconds": "0x198",
-    "last_render_time": "0x1A0",
+    "last_render_time": "0x32C",
     "velocity": "0x188",
     "relative_location": "0x140",
     "camera_location": "0x178",
