@@ -1,5 +1,17 @@
 [
     {
+    "category": "Fortnite External v2.0.3",
+    "date": "04.10.2025",
+    "news": "Added red, blue & yellow chams",
+    "color": [204, 191, 247, 255] 
+    },
+    {
+    "category": "Fortnite External v2.0.2",
+    "date": "29.09.2025",
+    "news": "Fixed some windows 11 related issues",
+    "color": [204, 191, 247, 255] 
+    },
+    {
     "category": "Fortnite External v2.0.1",
     "date": "22.09.2025",
     "news": "Fixed cheat not injecting for some users",
